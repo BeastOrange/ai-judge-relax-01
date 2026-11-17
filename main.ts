@@ -20,7 +20,7 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const TEXT = [
   'The kettle clicked off an hour ago, and the tea in the mug has gone the colour of weak amber. It is still warm enough to hold with both hands.',
   '',
-  'Outside, the street has emptied down to one slow car and the sound of a gate closing two houses away.',
+  'Outside, the street has emptied down to one slow car and the sound of a gate closing two houses away, and then nothing for a long while.',
   '',
   'The cat is asleep on the rug with one paw over its eyes, its sides rising and falling in the long, even way cats do when nothing is required of them.',
   '',

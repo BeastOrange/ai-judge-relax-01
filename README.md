@@ -16,7 +16,7 @@ A kettle gone quiet, amber tea still warm in the mug, a street emptied down to o
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`main.ts` (Node 22, standard library only) writes the text to `entry.txt` in the output directory (`/output` in the grader). No network, deterministic: two runs write byte-identical output, 557 characters, inside the 1–1000 limit.
+`main.ts` (Node 22, standard library only) writes the text to `entry.txt` in the output directory (`/output` in the grader). No network, deterministic: two runs write byte-identical output, 592 characters, inside the 1–1000 limit.
 
 ## License
 
